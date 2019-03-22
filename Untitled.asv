@@ -1,0 +1,2 @@
+ang = 0 : pi / 100 : pi;
+cp = cos(ang);
